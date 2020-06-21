@@ -1,2 +1,2 @@
-# Awesome-Self-Supervised-Learning
-Awesome Self-Supervised Learning
+# Self-Supervised-Learning-Survey
+Self-supervised Learning Survey
